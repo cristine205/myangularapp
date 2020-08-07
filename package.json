@@ -31,7 +31,7 @@
     "@nestjs/platform-express": "^6.0.0",
     "@nguniversal/express-engine": "^9.0.0",
     "bootstrap": "^4.4.1",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.9.1",
     "express": "^4.15.2",
     "ng2-slim-loading-bar": "^4.0.0",
